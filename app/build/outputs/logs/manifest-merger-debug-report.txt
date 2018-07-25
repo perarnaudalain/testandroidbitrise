@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/0ea635d339e580b0d8a7230beb4cf8ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ebd3dcd4fe755b6063771feaff35ce0d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/a52ec6813eac4e3bec0cef505f5fe97b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/21abfe6f79a659fbaf94e932e5822f08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/5c2d6f5d66f5ba5b00cdfa4228d1aa62/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/2751287f9b7831611ef3d277743ff06f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/60bf6d6c91d6fe71e5bdd1a6fc38cace/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/b60cc970b4f995e1976c5ccf39b413d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/8ea0042b489ffad187147831fc784a3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/0f624645d70972f16039e7ddd7955616/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/cecd7cf184a60b43ea0d7436cb0b70e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/436f5300ddc8174b7c600857acba3268/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/8e9b25aff6e03fcce338eba35041ca2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/8024a79f15af20c7295347ef1b81a0e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/e5590f20a1188b67a33f444fcefe9f10/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/488fb6f944220db292991f7cceed5ca1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/807a1502bd2cf440db6f2a5d9ff707ec/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b7934a0aeee089e82bcd048414acae7a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/46bdd7af9f915db341a9fdcc0426ee01/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/f05a86ce59e8439b9b497883e781c671/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/0e41aaa44be370d90059b75d787189b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/85849a147bcaf8d5a6c5a1693ccacaad/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/89d6f4bdc238907e1a86e0c4963774e4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/92013688d4190f4ab6bde4acd154032f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8c7617a0871f9f256c65232343bf1d8a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/ef5fb827d8ddcd8ae7d6ca4d407a7a2a/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:3:5-56
+		INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml
+		ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml
+		ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ebd3dcd4fe755b6063771feaff35ce0d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ebd3dcd4fe755b6063771feaff35ce0d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/488fb6f944220db292991f7cceed5ca1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/488fb6f944220db292991f7cceed5ca1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/46bdd7af9f915db341a9fdcc0426ee01/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/46bdd7af9f915db341a9fdcc0426ee01/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/488fb6f944220db292991f7cceed5ca1/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.aperarnaud.testandroidbitrise.MainActivity
+ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml
+INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/0ea635d339e580b0d8a7230beb4cf8ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/0ea635d339e580b0d8a7230beb4cf8ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ebd3dcd4fe755b6063771feaff35ce0d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ebd3dcd4fe755b6063771feaff35ce0d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/a52ec6813eac4e3bec0cef505f5fe97b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/a52ec6813eac4e3bec0cef505f5fe97b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/21abfe6f79a659fbaf94e932e5822f08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/21abfe6f79a659fbaf94e932e5822f08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/5c2d6f5d66f5ba5b00cdfa4228d1aa62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/5c2d6f5d66f5ba5b00cdfa4228d1aa62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/2751287f9b7831611ef3d277743ff06f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/2751287f9b7831611ef3d277743ff06f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/60bf6d6c91d6fe71e5bdd1a6fc38cace/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/60bf6d6c91d6fe71e5bdd1a6fc38cace/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/b60cc970b4f995e1976c5ccf39b413d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/b60cc970b4f995e1976c5ccf39b413d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/8ea0042b489ffad187147831fc784a3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/8ea0042b489ffad187147831fc784a3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/0f624645d70972f16039e7ddd7955616/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/0f624645d70972f16039e7ddd7955616/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/cecd7cf184a60b43ea0d7436cb0b70e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/cecd7cf184a60b43ea0d7436cb0b70e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/436f5300ddc8174b7c600857acba3268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/436f5300ddc8174b7c600857acba3268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/8e9b25aff6e03fcce338eba35041ca2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/8e9b25aff6e03fcce338eba35041ca2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/8024a79f15af20c7295347ef1b81a0e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/8024a79f15af20c7295347ef1b81a0e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/e5590f20a1188b67a33f444fcefe9f10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/e5590f20a1188b67a33f444fcefe9f10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/488fb6f944220db292991f7cceed5ca1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/488fb6f944220db292991f7cceed5ca1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/807a1502bd2cf440db6f2a5d9ff707ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/807a1502bd2cf440db6f2a5d9ff707ec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b7934a0aeee089e82bcd048414acae7a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b7934a0aeee089e82bcd048414acae7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/46bdd7af9f915db341a9fdcc0426ee01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/46bdd7af9f915db341a9fdcc0426ee01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/f05a86ce59e8439b9b497883e781c671/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/f05a86ce59e8439b9b497883e781c671/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/0e41aaa44be370d90059b75d787189b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/0e41aaa44be370d90059b75d787189b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/85849a147bcaf8d5a6c5a1693ccacaad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/85849a147bcaf8d5a6c5a1693ccacaad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/89d6f4bdc238907e1a86e0c4963774e4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/89d6f4bdc238907e1a86e0c4963774e4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/92013688d4190f4ab6bde4acd154032f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/92013688d4190f4ab6bde4acd154032f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8c7617a0871f9f256c65232343bf1d8a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8c7617a0871f9f256c65232343bf1d8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/ef5fb827d8ddcd8ae7d6ca4d407a7a2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /home/aperarnaud/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/ef5fb827d8ddcd8ae7d6ca4d407a7a2a/AndroidManifest.xml:20:5-44
+INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml
+INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml
+		ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml
+		ADDED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aperarnaud/Desktop/testandroidbitrise/app/src/main/AndroidManifest.xml
